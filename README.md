@@ -59,17 +59,63 @@ Currently working on AI powered platforms and developer tools.
 
 ## Projects
 
-### StudyVerse
+### GuideWell – AI
 
-AI powered study material sharing platform featuring authentication, document utilities, AI Q&A, and gamified learning.
+AI chatbot for groundwater data retrieval using natural language queries.
 
-### Groundwater Data Chatbot
+Key Features
+• Natural language interaction with groundwater datasets
+• Fast retrieval of water level, quality, and hydrogeological data
+• Conversational interface for simplified information access
 
-AI chatbot designed to enable natural language access to groundwater datasets and hydrogeological information.
+Technologies
+Python • Ollama • AI Chatbot Integration
 
-### Shyne Saloon and Spa Website
+---
 
-Luxury themed responsive web platform with animated UI and booking features.
+### UrbanNova – AI
+
+AI-powered urban infrastructure monitoring and decision-support system.
+
+Key Features
+• Image processing for infrastructure condition monitoring
+• Rule-based expert system for automated recommendations
+• Heatmap visualization for high-risk infrastructure zones
+• Analytics dashboards for administrative insights
+
+Technologies
+Computer Vision • Multimodal Learning • Data Visualization • AI Analytics
+
+---
+
+### AcademicIntel – AI
+
+AI assistive classroom management platform for analyzing student engagement.
+
+Key Features
+• Face recognition-based attendance system
+• Student stress and classroom mood analysis
+• AI-generated teaching insights and engagement suggestions
+• Automated classroom analytics and session reports
+
+Technologies
+Face Recognition • Computer Vision • AI Analytics • AI Response Engine
+
+---
+
+### SKI OD Portal
+
+Smart digital system for managing student On-Duty approval workflow.
+
+Key Features
+• Parent verification using OTP authentication
+• Multi-level approval workflow (Tutor → HOD)
+• Automatic OD letter generation
+• QR-based verification to prevent misuse
+
+Technologies
+Web Development • Two-Factor Authentication • Authentication Systems
+
 
 ---
 
@@ -101,14 +147,6 @@ Luxury themed responsive web platform with animated UI and booking features.
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shagyeeen"/>
-</p>
-
----
-
-## Snake Contribution Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shagyeeen/shagyeeen/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
