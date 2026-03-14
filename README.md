@@ -122,14 +122,6 @@ Web Development • Two-Factor Authentication • Authentication Systems
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shagyeeen&show_icons=true&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagyeeen&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shagyeeen&hide_border=true"/>
 </p>
 
@@ -139,14 +131,6 @@ Web Development • Two-Factor Authentication • Authentication Systems
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shagyeeen"/>
-</p>
-
----
-
-## Contribution Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shagyeeen"/>
 </p>
 
 ---
